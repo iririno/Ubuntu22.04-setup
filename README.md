@@ -1,2 +1,2 @@
 # Ubuntu22.04-setup
-Ubuntu22.04 setup script
+personal note on Ubuntu 22.04 setup
